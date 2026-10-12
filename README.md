@@ -40,4 +40,4 @@ Developed as part of the **CodeAlpha App Development Internship**.
 
 ---
 
-*Recallio — Learn, Recall, Repeat.*
+*Recallio — Study smarter, Recall better.*
