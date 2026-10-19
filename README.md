@@ -24,26 +24,25 @@ Recallio is a flashcard quiz application developed as **Task 1 of the CodeAlpha 
 Explore the interface of **Recallio — Flashcard Quiz App**, designed to make studying simple, interactive, and engaging.
 
 ### Flutter Launch
-![Recallio Flutter Launch Screen](screenshots/flutter launch screen.jpeg)
+![Recallio Flutter Launch Screen](screenshots/flutter%20launch%20screen.jpeg)
 
 ### Splash Screen
-![Recallio Splash Screen](screenshots/splash screen.jpeg)
+![Recallio Splash Screen](screenshots/splash%20screen.jpeg)
 
 ### Home Screen
-![Recallio Quiz Screen](screenshots/quiz screen.jpeg)
+![Recallio Quiz Screen](screenshots/quiz%20screen.jpeg)
 
 ### Study Card
-![Recallio Study Card](screenshots/study screen.jpeg)
+![Recallio Study Card](screenshots/study%20screen.jpeg)
 
 ### Manage Card
-![Recallio Manage Card Screen](screenshots/Manage card screen.jpeg)
+![Recallio Manage Card Screen](screenshots/Manage%20card%20screen.jpeg)
 
 ### Add Flashcard
-![Recallio Add Flashcard](screenshots/Add flashcard screen.jpeg)
+![Recallio Add Flashcard](screenshots/Add%20flashcard%20screen.jpeg)
 
 ### Analytics Screen
-![Recallio Analytics Screen](screenshots/Analytics screen.jpeg)
-
+![Recallio Analytics Screen](screenshots/Analytics%20screen.jpeg)
 
 
 ## 🚀 Getting Started
