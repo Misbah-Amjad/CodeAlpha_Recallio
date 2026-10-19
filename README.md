@@ -33,14 +33,15 @@ Explore the interface of **Recallio — Flashcard Quiz App**, designed to make s
 
 ### Study Card
 <img src="screenshots/study%20screen.jpeg" width="250" alt="Recallio Study Card">
+
 ### Manage Card
-![Recallio Manage Card Screen](screenshots/Manage%20card%20screen.jpeg)
+<img src="screenshots/manage card%20screen.jpeg" width="250" alt="Recallio Manage card">
 
 ### Add Flashcard
-![Recallio Add Flashcard](screenshots/Add%20flashcard%20screen.jpeg)
+<img src="screenshots/Add flashcard%20screen.jpeg" width="250" alt="Recallio Add flashCard">
 
 ### Analytics Screen
-![Recallio Analytics Screen](screenshots/Analytics%20screen.jpeg)
+<img src="screenshots/Analytics%20screen.jpeg" width="250" alt="Recallio Analytics screen">
 
 
 ## 🚀 Getting Started
