@@ -75,8 +75,7 @@ Explore **Recallio — Study smarter, recall better**, a Flutter flashcard quiz 
 <p align="center">
   <img src="screenshots/quiz%20screen.jpeg" alt="Recallio Quiz Screen" width="180"/>
   &nbsp;&nbsp;
-  <img src="screenshots/analytics%20screen.jpeg" alt="Recallio Analytics Screen" width="180"/>
-</p>
+<img src="./screenshots/analytics-screen.jpeg" alt="Recallio Analytics Screen" width="180"/></p>
 
 ### 👤 Personalization
 
