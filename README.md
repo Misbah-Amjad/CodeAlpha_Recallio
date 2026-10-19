@@ -65,7 +65,7 @@ Explore **Recallio — Study smarter, recall better**, a Flutter flashcard quiz 
 ### 📝 Flashcard Management
 
 <p align="center">
-  <img src="screenshots/add%20flashcard%20screen.jpeg" alt="Recallio Add Flashcard Screen" width="180"/>
+  <img src="screenshots/Add%20flashcard%20screen.jpeg" alt="Recallio Add Flashcard Screen" width="180"/>
   &nbsp;&nbsp;
   <img src="screenshots/Manage%20card%20screen.jpeg" alt="Recallio Manage Cards Screen" width="180"/>
 </p>
