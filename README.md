@@ -27,14 +27,12 @@ Explore the interface of **Recallio — Flashcard Quiz App**, designed to make s
 ![Recallio Flutter Launch Screen](screenshots/flutter%20launch%20screen.jpeg)
 
 ### Splash Screen
-![Recallio Splash Screen](screenshots/splash%20screen.jpeg)
-
+<img src="screenshots/splash%20screen.jpeg" width="250" alt="Recallio Splash Screen">
 ### Home Screen
-![Recallio Quiz Screen](screenshots/quiz%20screen.jpeg)
+<img src="screenshots/quiz%20screen.jpeg" width="250" alt="Recallio Quiz Screen">
 
 ### Study Card
-![Recallio Study Card](screenshots/study%20screen.jpeg)
-
+<img src="screenshots/study%20screen.jpeg" width="250" alt="Recallio Study Card">
 ### Manage Card
 ![Recallio Manage Card Screen](screenshots/Manage%20card%20screen.jpeg)
 
