@@ -70,18 +70,21 @@ Explore **Recallio — Study smarter, recall better**, a Flutter flashcard quiz 
   <img src="screenshots/Manage%20card%20screen.jpeg" alt="Recallio Manage Cards Screen" width="180"/>
 </p>
 
+
 ### 🎯 Quiz & Progress Tracking
 
 <p align="center">
-  <img src="screenshots/quiz%20screen.jpeg" alt="Recallio Quiz Screen" width="180"/>
+  <img src="./screenshots/quiz%20screen.jpeg" alt="Recallio Quiz Screen" width="180"/>
   &nbsp;&nbsp;
-  <img src="screenshots/analytics%20screen.jpeg" alt="Recallio Analytics Screen" height="250"/> 
+  <img src="./screenshots/analytics%20screen.jpeg" alt="Recallio Analytics Screen" width="250"/>
+</p>
 
 ### 👤 Personalization
 
 <p align="center">
-  <img src="screenshots/edit%20profile%20screen.jpeg" alt="Recallio Edit Profile Screen" width="180"/>
+  <img src="./screenshots/edit%20profile%20screen.jpeg" alt="Recallio Edit Profile Screen" width="180"/>
 </p>
+
 
 ---
 
