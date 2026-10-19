@@ -35,7 +35,7 @@ Explore the interface of **Recallio — Flashcard Quiz App**, designed to make s
 <img src="screenshots/study%20screen.jpeg" width="250" alt="Recallio Study Card">
 
 ### Manage Card
-<img src="screenshots/manage card%20screen.jpeg" width="250" alt="Recallio Manage card">
+<img src="screenshots/Manage card%20screen.jpeg" width="250" alt="Recallio Manage card">
 
 ### Add Flashcard
 <img src="screenshots/Add flashcard%20screen.jpeg" width="250" alt="Recallio Add flashCard">
