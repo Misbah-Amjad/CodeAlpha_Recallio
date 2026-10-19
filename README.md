@@ -81,7 +81,7 @@ Explore Recallio's interface and core learning workflows.
 <p align="center">
   <img src="screenshots/quiz%20screen.jpeg" alt="Recallio Quiz Screen" width="180"/>
   &nbsp;&nbsp;
-  <img src="screenshots/Analytics%20screen.jpeg" alt="Recallio Analytics Screen" width="180"/>
+<img src="./screenshots/analytics%20screen.jpeg" alt="Recallio Analytics Screen" width="180"/>
 </p>
 
 ### 👤 Personalized Learning
